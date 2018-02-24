@@ -1,0 +1,12 @@
+name: Commerce Product Access Test
+description: Test module for testing product and variation access
+# core: 8.x
+type: module
+dependencies:
+  - commerce_product
+
+# Information added by Drupal.org packaging script on 2018-01-10
+version: '8.x-2.3'
+core: '8.x'
+project: 'commerce'
+datestamp: 1515610092
